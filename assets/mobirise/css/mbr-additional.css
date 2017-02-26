@@ -512,7 +512,6 @@ h6,
 
 
 
-
 #menu-r .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -593,16 +592,16 @@ h6,
   text-align: center;
   color: #404040;
 }
-#contacts4-10 P {
+#contacts2-1c STRONG {
   font-family: 'Arimo', sans-serif;
   color: #ffffff;
 }
-#contacts4-10 STRONG {
-  font-family: 'Arimo', sans-serif;
+#contacts2-1c SPAN {
   color: #ffffff;
 }
-#contacts4-10 DIV {
+#contacts2-1c P {
   font-family: 'Arimo', sans-serif;
+  text-align: left;
 }
 
 

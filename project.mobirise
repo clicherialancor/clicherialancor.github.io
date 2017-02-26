@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 44,
+    "uniqCompNum": 49,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/olho-02-128x128-2.png",
     "noImageResize": ""
@@ -671,24 +671,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts4",
-          "_styles": {
-            "P": {
-              "font-family": "'Arimo', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
-              "color": "#ffffff"
-            },
-            "STRONG": {
-              "font-family": "'Arimo', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
-              "color": "#ffffff"
-            },
-            "DIV": {
-              "font-family": "'Arimo', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
-            }
-          },
-          "_anchor": "contacts4-10",
+          "_name": "contacts2",
+          "_anchor": "contacts2-1c",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -699,52 +683,29 @@
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "text1": "<p><strong>Endereço</strong><br>Rua Lateral, 602,&nbsp;Vila Nova York<br>São Paulo - SP - Brasil<br><br><br>\n<strong>Contato</strong><br>\nE-mail: clicherialancor@terra.com.br<br>Telefones: +55 11 2721-4517 &nbsp;| &nbsp;+55 11 99923-1816<br><br></p>",
-          "text2": "<b>Alguma dúvida? Envie-nos uma mensagem que responderemos assim que possível.</b>&nbsp;",
-          "form": {
-            "title": "MESSAGE",
-            "action": "clicherialancor@terra.com.br",
-            "alerts": {
-              "success": "Mensagem enviada com sucesso!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Nome*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "E-mail*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Mensagem*"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Enviar</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-11",
-          "_params": {
+            "overlayColor": "#3C3C3C",
             "googleMap": {
-              "address": "Rua Lateral São Paulo Brasil",
-              "placeId": "ChIJW8BPLXpnzpQRc3JrxJ3EUgA",
+              "address": "Rua Lateral, 602",
+              "placeId": "EjlSLiBMYXRlcmFsLCA2MDIgLSBWaWxhIE5vdmEgWW9yaywgU8OjbyBQYXVsbyAtIFNQLCBCcmFzaWw",
               "state": "ok",
               "stateDetails": ""
+            }
+          },
+          "text1": "<p><font color=\"#7c7c7c\" face=\"Arimo, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.800000011920929px; line-height: 16px;\"><b>Endereço</b></span></font><font color=\"#7c7c7c\" face=\"Arimo, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.800000011920929px; line-height: 16px;\"><b><br></b></span></font><br>Rua Lateral, 602, Vila Nova York<br>São Paulo - SP - Brasil<br><br><br>\n<strong>Contato</strong></p><p>Email:&nbsp;</p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">clicherialancor@terra.com.br</span></p><br><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">Telefone: &nbsp;</span></p><p>+55 11 2721-4517&nbsp;&nbsp;&nbsp;&nbsp;<br>+55 11 99923-1816</p><p><br>Horário de funcionamento:</p><p>Entre as 9:00 e as 18:00 horas.</p>",
+          "text2": "",
+          "_styles": {
+            "STRONG": {
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
+              "text-align": "left"
             }
           }
         }
