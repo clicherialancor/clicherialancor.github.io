@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index",
+    "currentPage": "Contato",
     "name": "Clicheria Lancor",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 49,
+    "uniqCompNum": 50,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/olho-02-128x128-2.png",
     "noImageResize": ""
@@ -672,10 +672,25 @@
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
+              "text-align": "left"
+            }
+          },
           "_anchor": "contacts2-1c",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -691,23 +706,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<p><font color=\"#7c7c7c\" face=\"Arimo, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.800000011920929px; line-height: 16px;\"><b>Endereço</b></span></font><font color=\"#7c7c7c\" face=\"Arimo, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.800000011920929px; line-height: 16px;\"><b><br></b></span></font><br>Rua Lateral, 602, Vila Nova York<br>São Paulo - SP - Brasil<br><br><br>\n<strong>Contato</strong></p><p>Email:&nbsp;</p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">clicherialancor@terra.com.br</span></p><br><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">Telefone: &nbsp;</span></p><p>+55 11 2721-4517&nbsp;&nbsp;&nbsp;&nbsp;<br>+55 11 99923-1816</p><p><br>Horário de funcionamento:</p><p>Entre as 9:00 e as 18:00 horas.</p>",
-          "text2": "",
-          "_styles": {
-            "STRONG": {
-              "font-family": "'Arimo', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
-              "color": "#ffffff"
-            },
-            "SPAN": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "font-family": "'Arimo', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
-              "text-align": "left"
-            }
-          }
+          "text1": "<p><font color=\"#7c7c7c\" face=\"Arimo, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.800000011920929px; line-height: 16px;\"><b>Endereço</b></span></font><font color=\"#7c7c7c\" face=\"Arimo, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.800000011920929px; line-height: 16px;\"><b><br></b></span></font><br>Rua Lateral, 602, Vila Nova York<br>São Paulo - SP - Brasil</p><br><p>Horário de funcionamento:<br>De segunda a sexta, exceto feriados.<br>Entre as 9:00 e as 18:00 horas.</p><br><p><br><br>\n<strong>Contato</strong></p><p>Email:&nbsp;</p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">clicherialancor@terra.com.br</span></p><br><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">Telefone: &nbsp;</span></p><p>+55 11 2721-4517&nbsp;&nbsp;&nbsp;&nbsp;<br>+55 11 99923-1816</p>",
+          "text2": ""
         }
       ]
     },
