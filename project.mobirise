@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Contato",
+    "currentPage": "index",
     "name": "Clicheria Lancor",
     "theme": {
       "name": "mobirise3",
@@ -706,7 +706,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<p><font color=\"#7c7c7c\" face=\"Arimo, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.800000011920929px; line-height: 16px;\"><b>Endereço</b></span></font><font color=\"#7c7c7c\" face=\"Arimo, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.800000011920929px; line-height: 16px;\"><b><br></b></span></font><br>Rua Lateral, 602, Vila Nova York<br>São Paulo - SP - Brasil</p><br><p>Horário de funcionamento:<br>De segunda a sexta, exceto feriados.<br>Entre as 9:00 e as 18:00 horas.</p><br><p><br><br>\n<strong>Contato</strong></p><p>Email:&nbsp;</p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">clicherialancor@terra.com.br</span></p><br><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">Telefone: &nbsp;</span></p><p>+55 11 2721-4517&nbsp;&nbsp;&nbsp;&nbsp;<br>+55 11 99923-1816</p>",
+          "text1": "<p><font color=\"#7c7c7c\" face=\"Arimo, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.800000011920929px; line-height: 16px;\"><b>Endereço</b></span></font><font color=\"#7c7c7c\" face=\"Arimo, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.800000011920929px; line-height: 16px;\"><b><br></b></span></font><br>Rua Lateral, 602, Vila Nova York<br>São Paulo - SP - Brasil</p><br><p>Horário de funcionamento:<br>De segunda a sexta, exceto feriados.<br>Entre as 9:00 e as 18:00 horas.</p><br><p><br><br>\n<strong>Contato</strong></p><p>Email:&nbsp;</p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">clicherialancor@terra.com.br</span></p><br><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">Telefone: &nbsp;</span></p><p>+55 11 2721-4517&nbsp;&nbsp;&nbsp;&nbsp;<br></p>",
           "text2": ""
         }
       ]
