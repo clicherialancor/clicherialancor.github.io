@@ -25,7 +25,8 @@
     "uniqCompNum": 50,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/olho-02-128x128-2.png",
-    "noImageResize": ""
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "Serviços": {
@@ -1086,8 +1087,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
+            "overlayOpacity": "0.7",
+            "overlayColor": "#404040",
             "inverse": false,
             "showTitle": false,
             "showText": true,
@@ -1117,7 +1118,7 @@
             }
           },
           "title": "<i style=\"font-weight: normal;\">\" Satisfação em servir seus clientes desde 1991 \".</i>",
-          "text": "<span style=\"line-height: 1.5;\"><br></span><span style=\"line-height: 1.5;\"><br></span><br><span style=\"line-height: 1.5;\">\"A Clicheria Lancor é uma&nbsp;família&nbsp;que há mais de 25&nbsp;anos trabalha na confecção de clichês em alta qualidade e de variadas espessuras para o ramo gráfico, mecânico e metalúrgico.&nbsp;Confira nosso trabalho!\"</span><br><br><div style=\"text-align: center;\"><br></div>",
+          "text": "<span style=\"line-height: 1.5;\"><br></span><span style=\"line-height: 1.5;\"><br></span><i><br></i><span style=\"line-height: 1.5;\">\"A Clicheria Lancor é uma&nbsp;família&nbsp;que há mais de 25&nbsp;anos trabalha na confecção de clichês em alta qualidade e de variadas espessuras para o ramo gráfico, mecânico e metalúrgico.&nbsp;Confira nosso trabalho!\"</span><br><br><div style=\"text-align: center;\"><br></div>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
